@@ -1,0 +1,5 @@
+[
+  {"event": "login", "user": "asha", "status": "ok"},
+  {"event": "upload", "user": "rahul", "status": "ok"},
+  {"event": "extract", "user": "meera", "status": "error"}
+]
